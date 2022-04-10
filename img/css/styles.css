@@ -72,7 +72,7 @@ a:hover {
 .iframe {
     border: 3em;
     border-style: solid;
-    border-color: black;
+    border-color: #0a1efa;
     padding: 1em;
     margin-bottom: 15px;
 }

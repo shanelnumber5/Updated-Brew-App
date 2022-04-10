@@ -62,3 +62,12 @@ h4 {
     margin-bottom: -5px;
     margin-top: 15px;
 }
+
+h5 {
+    font-family: 'AmaticSC-Bold';
+    font-size: 80px;
+    margin: 0px;
+    overflow: visible;
+    padding: 0px;
+    text-align: center;
+}
