@@ -76,8 +76,6 @@ body {
     height: 100%;
     margin: 0px;
     border: solid;
-    overflow: hidden;
-    /*  Disable scrollbars */
     display: block;
     /* No floating content on sides */
 }
