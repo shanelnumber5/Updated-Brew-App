@@ -58,9 +58,7 @@ body {
     -webkit-user-select: none;
     /* prevent copy paste, to allow, change 'none' to 'text' */
     background-color: #0a1efa;
-    font-family: system-ui, -apple-system, -apple-system-font, 'Segoe UI', 'Roboto', sans-serif;
-    font-size: 12px;
-    height: 100vh;
+    height: 100%;
     padding: 2%;
     margin: 2%;
     align-items: center;
@@ -75,7 +73,6 @@ body {
     width: 100%;
     height: 100%;
     margin: 0px;
-    border: solid;
     display: block;
     /* No floating content on sides */
 }
